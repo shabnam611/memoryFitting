@@ -153,7 +153,8 @@ void worstfit()
 
 int main()
 {
-    //firstfit();
-   //bestfit();
+    firstfit();
+    bestfit();
     worstfit();
 }
+//done by Mushrit Shabnam
